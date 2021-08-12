@@ -2,7 +2,7 @@
 <p align="center"> I'm third grade at IZU Computer Engineering.</p>
 
 <ul>
-  <li><a href="linkedin.com/in/alibugraoktay">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/alibugraoktay/">Linkedin</a></li>
   <li>Contact Me at: <a href="alibugrawork@gmail.com">alibugrawork@gmail.com</a></li>
   <li><a href="https://www.youtube.com/channel/UCJppCXZ8aZrQeq8PUBZsAHg">Youtube</a></li>
 </ul>
