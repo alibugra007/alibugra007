@@ -1,5 +1,11 @@
 <h1 align="center"> Welcome. I'm Ali Buğra Oktay. </h1>
 <p align="center"> I'm third grade at IZU Computer Engineering.</p>
+
+<ul>
+  <li><a href="linkedin.com/in/alibugraoktay">Linkedin</a></li>
+  <li><a href="alibugrawork@gmail.com">Contact Me</a></li>
+  <li><a href="https://www.youtube.com/channel/UCJppCXZ8aZrQeq8PUBZsAHg">Youtube</a></li>
+</ul>
 <!--
 **alibugra007/alibugra007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
