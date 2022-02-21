@@ -9,5 +9,5 @@
 <p align="center">
   
    [![Youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=red)](https://www.youtube.com/channel/UCJppCXZ8aZrQeq8PUBZsAHg/featured)
-   [![Linkedin](https://img.shields.io/badge/-Ali%20Bugra%20OKTAY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/alibugraoktay)](linkedin.com/in/alibugraoktay)
+   [![Linkedin](https://img.shields.io/badge/-Ali%20Bugra%20OKTAY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/alibugraoktay)]
    [![Github profile views](https://gpvc.arturio.dev/alibugra007)]
