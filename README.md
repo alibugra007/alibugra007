@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Buğra OKTAY</h1>
-<h3 align="center">Computer engineering student from Turkey</h3>
+<h1 align="center">Ali Buğra OKTAY</h1>
+<h3 align="center">Computer Engineer / Data Enthusiast</h3>
    
    
    Contact me at **alibugrawork@hotmail.com**
