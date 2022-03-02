@@ -9,6 +9,7 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alibugra007&show_icons=true&theme=algolia" ;"alt="alibugra007" /></p>
 <p align="center">
   
+  <!--  -->
    [![Youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=red)](https://www.youtube.com/channel/UCJppCXZ8aZrQeq8PUBZsAHg/featured)
  [![Linkedin](https://img.shields.io/badge/-Ali%20Bugra%20OKTAY-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alibugraoktay)](https://www.linkedin.com/in/alibugraoktay)
    ![Github profile views](https://gpvc.arturio.dev/alibugra007)
