@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer / Data Enthusiast</h3>
    
    
-   Contact me at **alibugrawork@hotmail.com**
+   Contact me at **alibugrawork@gmail.com**
    <!-- Images coming to below --> 
    
    [![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=alibugra007&layout=compact)](https://github.com/alibugra007)
